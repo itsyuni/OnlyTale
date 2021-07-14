@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?import javafx.scene.*?><?import javafx.collections.*?><?import javafx.scene.layout.*?><?import javafx.scene.control.*?><?import javafx.scene.text.*?><?import javafx.scene.image.*?><?import javafx.scene.shape.*?><?import javafx.scene.paint.*?><?import javafx.scene.web.*?><?import javafx.geometry.*?><?import java.lang.*?><?import org.develnext.jphp.ext.javafx.classes.data.*?><?import org.develnext.jphp.ext.javafx.support.*?><?import org.develnext.jphp.ext.javafx.support.control.*?><?import org.develnext.jphp.ext.game.support.*?><AnchorPane xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" AnchorPane.bottomAnchor="0" AnchorPane.leftAnchor="0" AnchorPane.rightAnchor="0" AnchorPane.topAnchor="0" focusTraversable="false" id="" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="472" prefWidth="640" styleClass="">
+  <children>
+    <Rectangle arcHeight="0" arcWidth="0" fill="#000000" focusTraversable="false" height="472" id="rect" layoutX="0" layoutY="0" stroke="#000000" strokeType="INSIDE" strokeWidth="2" styleClass="" width="640"/>
+    <Data cursor="DEFAULT" enabled="1" id="data-rect" visible="1"/>
+    <ImageViewEx autoSize="false" centered="false" focusTraversable="false" height="248" id="image" layoutX="112" layoutY="0" mosaic="false" mosaicGap="0" proportional="false" stretch="true" styleClass="" textFill="#000000" width="400">
+      <font>
+        <Font name="System Regular" size="12"/>
+      </font>
+    </ImageViewEx>
+    <Data cursor="DEFAULT" enabled="1" id="data-image" image=".data/img/mettaton_neo_by_dzkynosequemas-d9lk2on.png" visible="1"/>
+    <Rectangle arcHeight="0" arcWidth="0" fill="#000000" focusTraversable="false" height="112" id="rectAlt" layoutX="160" layoutY="264" stroke="#ffffff" strokeType="INSIDE" strokeWidth="2" styleClass="" width="320"/>
+    <Data cursor="DEFAULT" enabled="1" id="data-rectAlt" visible="1"/>
+    <LabelEx alignment="CENTER_LEFT" autoSize="false" contentDisplay="LEFT" ellipsisString="..." focusTraversable="false" graphicTextGap="4" id="label" layoutX="176" layoutY="272" prefHeight="56" prefWidth="288" styleClass="label " text="* Mettaton Neo&#10;blocks the way" textAlignment="LEFT" textFill="#ffffff" underline="false" wrapText="false">
+      <font>
+        <Font name="System Regular" size="12"/>
+      </font>
+    </LabelEx>
+    <Data cursor="DEFAULT" enabled="1" id="data-label" visible="1"/>
+    <Rectangle arcHeight="0" arcWidth="0" fill="#000000" focusTraversable="false" height="64" id="rect3" layoutX="88" layoutY="400" stroke="#ffffff" strokeType="INSIDE" strokeWidth="2" styleClass="" width="112"/>
+    <Data cursor="DEFAULT" enabled="1" id="data-rect3" visible="1"/>
+    <LabelEx alignment="CENTER_LEFT" autoSize="false" contentDisplay="LEFT" ellipsisString="..." focusTraversable="false" graphicTextGap="4" id="labelAlt" layoutX="100" layoutY="424" prefHeight="16" prefWidth="96" styleClass="label " text="Fight" textAlignment="LEFT" textFill="#ffffff" underline="false" wrapText="false">
+      <font>
+        <Font name="System Regular" size="19"/>
+      </font>
+    </LabelEx>
+    <Data cursor="DEFAULT" enabled="1" id="data-labelAlt" visible="1"/>
+    <Rectangle arcHeight="0" arcWidth="0" fill="#000000" focusTraversable="false" height="64" id="rect4" layoutX="216" layoutY="400" stroke="#f2f2f2" strokeType="INSIDE" strokeWidth="2" styleClass="" width="112"/>
+    <Data cursor="DEFAULT" enabled="1" id="data-rect4" visible="1"/>
+    <LabelEx alignment="CENTER_LEFT" autoSize="false" contentDisplay="LEFT" ellipsisString="..." focusTraversable="false" graphicTextGap="4" id="label3" layoutX="245" layoutY="424" prefHeight="16" prefWidth="96" styleClass="label " text="Act" textAlignment="LEFT" textFill="#ffffff" underline="false" wrapText="false">
+      <font>
+        <Font name="System Regular" size="19"/>
+      </font>
+    </LabelEx>
+    <Data cursor="DEFAULT" enabled="1" id="data-label3" visible="1"/>
+    <Rectangle arcHeight="0" arcWidth="0" fill="#000000" focusTraversable="false" height="64" id="rect5" layoutX="344" layoutY="400" stroke="#f2f2f2" strokeType="INSIDE" strokeWidth="2" styleClass="" width="112"/>
+    <Data cursor="DEFAULT" enabled="1" id="data-rect5" visible="1"/>
+    <Rectangle arcHeight="0" arcWidth="0" fill="#000000" focusTraversable="false" height="64" id="rect6" layoutX="472" layoutY="400" stroke="#f2f2f2" strokeType="INSIDE" strokeWidth="2" styleClass="" width="112"/>
+    <Data cursor="DEFAULT" enabled="1" id="data-rect6" visible="1"/>
+    <LabelEx alignment="CENTER_LEFT" autoSize="false" contentDisplay="LEFT" ellipsisString="..." focusTraversable="false" graphicTextGap="4" id="label4" layoutX="361" layoutY="423" prefHeight="17" prefWidth="96" styleClass="label " text="Item" textAlignment="LEFT" textFill="#ffffff" underline="false" wrapText="false">
+      <font>
+        <Font name="System Regular" size="19"/>
+      </font>
+    </LabelEx>
+    <Data cursor="DEFAULT" enabled="1" id="data-label4" visible="1"/>
+    <LabelEx alignment="CENTER_LEFT" autoSize="false" contentDisplay="LEFT" ellipsisString="..." focusTraversable="false" graphicTextGap="4" id="label5" layoutX="480" layoutY="424" prefHeight="16" prefWidth="120" styleClass="label " text="Mercy" textAlignment="LEFT" textFill="#ffffff" underline="false" wrapText="false">
+      <font>
+        <Font name="System Regular" size="20"/>
+      </font>
+    </LabelEx>
+    <Data cursor="DEFAULT" enabled="1" id="data-label5" visible="1"/>
+    <LabelEx alignment="CENTER_LEFT" autoSize="false" contentDisplay="LEFT" ellipsisString="..." focusTraversable="false" graphicTextGap="4" id="label6" layoutX="48" layoutY="224" prefHeight="16" prefWidth="96" styleClass="label " text="HP" textAlignment="LEFT" textFill="#ffffff" underline="false" wrapText="false">
+      <font>
+        <Font name="System Regular" size="20"/>
+      </font>
+    </LabelEx>
+    <Data cursor="DEFAULT" enabled="1" id="data-label6" visible="1"/>
+    <Rectangle arcHeight="0" arcWidth="0" fill="#80b380" focusTraversable="false" height="96" id="rect7" layoutX="50" layoutY="256" stroke="#80b380" strokeType="INSIDE" strokeWidth="2" styleClass="" width="32"/>
+    <Data cursor="DEFAULT" enabled="1" id="data-rect7" visible="1"/>
+    <FlatButton alignment="CENTER" color="#6680e6" contentDisplay="LEFT" ellipsisString="..." focusTraversable="true" graphicTextGap="4" hoverColor="#4d66cc" id="button" layoutX="96" layoutY="400" opacity="0" prefHeight="64" prefWidth="112" styleClass="x-flat-button " text="" textAlignment="CENTER" textFill="#ffffff" underline="false" wrapText="false">
+      <font>
+        <Font name="System Regular" size="12"/>
+      </font>
+    </FlatButton>
+    <Data cursor="DEFAULT" enabled="1" id="data-button" visible="1"/>
+  </children>
+</AnchorPane>

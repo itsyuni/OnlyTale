@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+  <class name="GlabEng">
+    <method name="doButtonClickLeft">
+      <showForm form="Settings" form-type="form"/>
+    </method>
+  </class>
+<class name="GlabRus">
+    <method name="doButtonClickLeft">
+      <showForm form="SettingsRus" form-type="form"/>
+    </method>
+  <method name="doButton3ClickLeft">
+      <showForm form="gamerus" form-type="form"/>
+    <hideForm form="GlabRus" form-type="form"/>
+    <hideForm form="SettingsRus" form-type="form"/>
+      <hideForm form="GlabEng" form-type="form"/>
+      <hideForm form="Settings" form-type="form"/>
+    </method>
+  </class>
+</root>

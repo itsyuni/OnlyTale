@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+  <class name="gamerus">
+    <method name="doButtonClickLeft">
+      <showForm form="gamerus1" form-type="form"/>
+      <hideForm form="gamerus" form-type="form"/>
+    </method>
+  </class>
+<class name="gameeng">
+    <method name="doButtonClickLeft">
+      <showForm form="gameeng1" form-type="form"/>
+      <hideForm form="gameeng" form-type="form"/>
+    </method>
+  </class>
+<class name="game2eng">
+    <method name="doButtonClickLeft">
+      <showForm form="game2eng1" form-type="form"/>
+      <hideForm form="game2eng" form-type="form"/>
+    </method>
+  </class>
+<class name="game2rus">
+    <method name="doButtonClickLeft">
+      <showForm form="game2rus1" form-type="form"/>
+      <hideForm form="game2rus" form-type="form"/>
+    </method>
+  </class>
+</root>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+  <class name="GlabEng">
+    <method name="doButtonClickLeft">
+      <showForm form="Settings" form-type="form"/>
+    </method>
+  <method name="doButton3ClickLeft">
+      <showForm form="gameeng" form-type="form"/>
+      <hideForm form="GlabEng" form-type="form"/>
+    </method>
+  </class>
+</root>

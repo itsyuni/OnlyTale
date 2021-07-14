@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+  <class name="gamerus2">
+    
+  <method name="doButtonClickLeft">
+      <showForm form="gamerus3" form-type="form"/>
+      <hideForm form="gamerus2" form-type="form"/>
+    </method>
+  </class>
+</root>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project author="Ноутбук" authorOS="Windows 7" createdAt="1498300029417" ideName="DevelNext" ideVersion="16.7.0" ideVersionHash="2017103112" name="OnlyTale" packageName="app" template="ide\project\templates\DefaultGuiProjectTemplate" updatedAt="1620060410046">
+  <tree>
+    <expanded>
+    <path src=""/>
+      <path src="/src"/>
+      <path src="/src/.theme"/>
+      <path src="/src/app"/>
+      <path src="/src/app/forms"/>
+      <path src="/src/app/modules"/>
+    </expanded>
+  </tree>
+  <openedFiles>
+  <file src="OnlyTale.dnproject"/>
+    <file src="src/app/modules/MainModule.php"/>
+    <file src="src/app/forms/GlabEng.php"/>
+    <file src="src/app/forms/Settings.php"/>
+    <file src="src/app/forms/GlabRus.php"/>
+    <file src="src/app/forms/SettingsRus.php"/>
+    <file src="src/app/forms/gamerus.php"/>
+    <file src="src/app/forms/gamerus1.php"/>
+    <file src="src/app/forms/gamerus2.php"/>
+    <file src="src/app/forms/gamerus3.php"/>
+    <file selected="1" src="src/app/forms/ganerus4.php"/>
+    <file src="src/app/forms/youwinrus.php"/>
+    <file src="src/app/forms/gameeng.php"/>
+    <file src="src/app/forms/gameeng1.php"/>
+    <file src="src/app/forms/gameeng2.php"/>
+    <file src="src/app/forms/gameeng3.php"/>
+    <file src="src/app/forms/gameeng4.php"/>
+    <file src="src/app/forms/youwineng.php"/>
+    <file src="src/app/forms/game2eng.php"/>
+    <file src="src/app/forms/game2eng1.php"/>
+    <file src="src/app/forms/game2eng2.php"/>
+    <file src="src/app/forms/game2eng3.php"/>
+    <file src="src/app/forms/game2eng4.php"/>
+    <file src="src/app/forms/game2rus.php"/>
+    <file src="src/app/forms/game2rus1.php"/>
+    <file src="src/app/forms/game2rus2.php"/>
+    <file src="src/app/forms/game2rus3.php"/>
+    <file src="src/app/forms/game2rus4.php"/>
+  </openedFiles>
+  <files/>
+  <behaviours>
+  <behaviour class="ide\project\behaviours\BundleProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\PhpProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\JavaPlatformBehaviour"/>
+    <behaviour class="ide\project\behaviours\GuiFrameworkProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\RunBuildProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\ShareProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\GradleProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\BackupProjectBehaviour"/>
+  </behaviours>
+</project>
